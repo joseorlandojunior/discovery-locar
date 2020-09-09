@@ -4,7 +4,7 @@ spring:
     prefer-file-system-access: false
 
 server:
-  port: 8761
+  port: 8762
 
 eureka:
   instance:
